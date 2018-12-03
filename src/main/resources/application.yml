@@ -36,4 +36,4 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: dhht.seal.trimps.useraccess.model
+  type-aliases-package: com.dhht.process.model
